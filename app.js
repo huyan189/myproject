@@ -1,2 +1,1 @@
-console.log("Hello from main");
-console.log("Hello from feature/home");
+console.log("Hello from home updated");
