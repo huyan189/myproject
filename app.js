@@ -1,1 +1,1 @@
-console.log("Hello from home updated");
+<button type="submit">Login</button>
